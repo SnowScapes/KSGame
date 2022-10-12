@@ -9,7 +9,9 @@
 ---------------------------------------
 #### * 수정된 코드 파일 : after.cpp
 > - 연습게임 추가  
->   - practice_game  
+>   - practice_game(연습 게임 화면)  
 >     
 > - 게임 난이도 추가
->   - game_difficulty
+>   - game_difficulty(게임 난이도 화면)  
+>    - set_speed(속도 조절)  
+>    - random_speed(속도 랜덤)
