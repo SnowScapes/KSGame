@@ -5,7 +5,7 @@
   * HERO    
     * HERO BODY    
       <pre>
-      <code>
+      <code>    
       <section class="hero">
         <div class="hero-body">
           <p class="title">
