@@ -4,8 +4,7 @@
 * BULMA    
   * HERO    
     * HERO BODY    
-      <pre>
-      <code>    
+      ```html  
       <section class="hero">
         <div class="hero-body">
           <p class="title">
@@ -16,5 +15,4 @@
            </p>
         </div>
       </section>
-        </code>
-        </pre>
+      ```
