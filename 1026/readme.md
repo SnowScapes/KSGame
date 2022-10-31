@@ -60,4 +60,4 @@
 ***    
 ### 적용 페이지    
 > [Github.io](https://snowscapes.github.io/KSGame/, "Github.io Link")    
-> [Netlify](https://kscsspractice.netlify.app, "Netlify Link")
+> [Netlify](https://kscsspractice.netlify.app/, "Netlify Link")
