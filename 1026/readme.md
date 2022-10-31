@@ -56,4 +56,7 @@
   <br />
   <button class="button button-primary button-block">button block</button>
   </div>
-  ```
+  ```    
+***    
+> [Github.io](https://snowscapes.github.io/KSGame/)    
+> [Netlify](kscsspractice.netlify.app)
