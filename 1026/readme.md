@@ -58,5 +58,6 @@
   </div>
   ```    
 ***    
+### 완성된 페이지    
 > [Github.io](https://snowscapes.github.io/KSGame/)    
 > [Netlify](kscsspractice.netlify.app)
