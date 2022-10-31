@@ -3,7 +3,7 @@
 ## 사용된 CSS framework
 * BULMA    
   * HERO    
-    * HERO BODY    
+    * Hero Title     
       ```html  
       <section class="hero">
         <div class="hero-body">
