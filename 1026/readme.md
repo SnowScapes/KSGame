@@ -42,3 +42,18 @@
                 </tbody>
             </table>
       ```
+* Skeleton    
+  * Buttons    
+  ```html
+  <div class="container text-center">
+  <h1>Skeletton Buttons</h1>
+  <button class="button">Default</button>
+  <button class="button button-primary">Primary</button>
+  <button class="button button-success">Success</button>
+  <button class="button button-info">Info</button>
+  <button class="button button-warning">Warning</button>
+  <button class="button button-danger">Danger</button>
+  <br />
+  <button class="button button-primary button-block">button block</button>
+  </div>
+  ```
