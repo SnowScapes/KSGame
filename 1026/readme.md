@@ -2,4 +2,5 @@
 
 ## 사용된 CSS framework
 * BULMA    
-  * HERO
+  * HERO    
+    * HERO BODY
