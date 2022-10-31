@@ -16,8 +16,8 @@
         </div>
       </section>
       ```    
-*Bootstrap
-  *Images
+* Bootstrap    
+  * Images    
     ```html
     <img class="rounded mx-auto d-block" src="images/profile.jpg"  alt="홍길동의 얼굴 사진" />
             <table class="table" style="margin-left: auto; margin-right: auto; ">
