@@ -9,4 +9,5 @@
 ---
 ### 2. Kotlin 사용 기간 분석 [Jetbrains](https://www.jetbrains.com/ko-kr/lp/devecosystem-2021/kotlin/)    
 > #### echarts 이용
+<img src="https://github.com/SnowScapes/KSGame/blob/main/1109/imgs/kotlin2.JPG?raw=true"></img><br/> 
 [Reference](https://echarts.apache.org/examples/en/editor.html?c=pie-simple&lang=js/)
